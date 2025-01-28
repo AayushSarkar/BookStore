@@ -1,6 +1,6 @@
 # BookStore (Books Management System)
 
-!["BookStore"](./bookstore.jpg)
+!["BookStore"](./bookstore.png)
 
 ## Overview
 
