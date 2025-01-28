@@ -1,8 +1,8 @@
-# Books Management System
+# BookStore (Books Management System)
 
 ## Overview
 
-The **Books Management System** is a web application that allows users to manage books, register, and log in. It is built using the **MERN** (MongoDB, Express.js, React.js, Node.js) stack, and the project is divided into **Backend** and **Frontend** directories.
+The **BookStore** is a web application that allows users to manage books, register, and log in. It is built using the **MERN** (MongoDB, Express.js, React.js, Node.js) stack, and the project is divided into **Backend** and **Frontend** directories.
 
 ---
 
